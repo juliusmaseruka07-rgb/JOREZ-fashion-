@@ -1,0 +1,6 @@
+{
+  "name": "JOREZ MEDIA",
+  "description": "Modern Ugandan digital media, advertising, streetwear social-commerce, and entertainment platform. Disconnect to Connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
